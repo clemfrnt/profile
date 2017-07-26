@@ -12,12 +12,12 @@ a {
 
 
 a:hover {
-opacity: 0.3;
+  opacity: 0.3;
 }
 
 h1 {
   color: #2D5C7F;
-  line-height: 2;
+  text-align: center;
 }
 
 img{
@@ -64,6 +64,7 @@ img{
 
 }
 .card {
+  padding-top: 7px;
   background-color: white;
   width: 500px;
   opacity: 0.8;
